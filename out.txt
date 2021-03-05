@@ -1,0 +1,6 @@
+name,marks
+Rumit,96.0
+Namit,84.0
+Reena,77.0
+Aditi,67.0
+Meena,60.0
